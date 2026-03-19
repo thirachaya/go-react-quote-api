@@ -1,25 +1,32 @@
-# Go React Quote API
+# 🚀 Go React Quote API
 
-Simple fullstack project using Go and React.
+A simple fullstack web application that serves random inspirational quotes using **Golang (backend)** and **React (frontend)**.
 
-## Stack
+> Built as part of a 7-day fullstack challenge (Day 1)
 
-- Golang
-- React
-- Vite
+---
 
-## API
+## ✨ Features
 
-GET /quotes
-GET /quotes/random
+---
 
-## Run
+## 🧱 Tech Stack
 
-Backend
+**Frontend**
+- React (Vite + TypeScript)
 
-go run main.go
+**Backend**
+- Golang (net/http)
 
-Frontend
+---
 
-npm install
-npm run dev
+## 📡 API Endpoints
+
+| Method | Endpoint              | Description         |
+|--------|---------------------|---------------------|
+| GET    | `/quotes`           | Get all quotes      |
+| GET    | `/quotes/random`    | Get random quote    |
+
+---
+
+## 🖥️ Project Structure
