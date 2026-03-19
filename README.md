@@ -28,5 +28,3 @@ A simple fullstack web application that serves random inspirational quotes using
 | GET    | `/quotes/random`    | Get random quote    |
 
 ---
-
-## 🖥️ Project Structure
