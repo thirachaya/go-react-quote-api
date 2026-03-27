@@ -1,4 +1,4 @@
-# 🚀 Go React Quote API
+# Go React Quote API
 
 A simple fullstack web application that serves random inspirational quotes using **Golang (backend)** and **React (frontend)**.
 
@@ -6,7 +6,7 @@ A simple fullstack web application that serves random inspirational quotes using
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 **Frontend**
 - React (Vite + TypeScript)
@@ -16,7 +16,7 @@ A simple fullstack web application that serves random inspirational quotes using
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Endpoint              | Description         |
 |--------|---------------------|---------------------|
