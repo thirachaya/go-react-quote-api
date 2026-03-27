@@ -6,10 +6,6 @@ A simple fullstack web application that serves random inspirational quotes using
 
 ---
 
-## ✨ Features
-
----
-
 ## 🧱 Tech Stack
 
 **Frontend**
